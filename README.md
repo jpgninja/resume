@@ -1,19 +1,12 @@
-# Personal Résumé/CV of Chris Mewhort
+# Chris Mewhort — Résumé
 
-They say every man should update his resume once a decade, so here goes nothing.
+Full-stack developer and AI engineer in Vancouver, BC. Founder of
+[Client Coffee](https://clientcoffee.com).
 
-* *Name:* Chris Mewhort
-* *Email:* chrismewhort@gmail.com
-* *Location:* Montreal, Canada
+Live at **[jpgninja.github.io/resume](https://jpgninja.github.io/resume/)**.
 
-##At a glance
+Generated from my career knowledgebase, where the record lives as structured
+data and each résumé is a view over it.
 
-* Wordpress – powers 25% of the Internet. What else can I say?
-* Javascript – the most interpretted language on Earth. What else can I say?
-* CSS – Rapid redesigns without touching the code. Can ya dig it, sucka?
-
-##Other Information
-
-* Love martial arts
-* Catch me listening to hiphop, reggae, funk, soul, and jazz
-* I love stuff like [Kiva](http://kiva.org), [Bitcoin](http://blockchain.info), [Khan Academy](http://khanacademy.org), and [Kickstarter](http://kickstarter.com)
+Contact: [chrismewhort@gmail.com](mailto:chrismewhort@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/chrismewhort/)
